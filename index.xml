@@ -3,6 +3,6 @@
   <repositoryUrls />
   <dataIndexEntries>
     <dataIndexEntry filePath='Asklanders.catz' dataType='catalogue' dataId='8029-c618-92aa-80d8' dataName='EoW: Åsklanders' dataBattleScribeVersion='2.03' dataRevision='3'/>
-    <dataIndexEntry filePath='T9A-EoW.gstz' dataType='gamesystem' dataId='aa64-1e8e-66fc-9abf' dataName='T9A: Essence of War' dataBattleScribeVersion='2.03' dataRevision='2'/>
+    <dataIndexEntry filePath='T9A-EoW.gstz' dataType='gamesystem' dataId='aa64-1e8e-66fc-9abf' dataName='T9A: Essence of War' dataBattleScribeVersion='2.03' dataRevision='3'/>
   </dataIndexEntries>
 </dataIndex>
