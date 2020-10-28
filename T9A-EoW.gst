@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gameSystem id="aa64-1e8e-66fc-9abf" name="T9A: Essence of War" revision="3" battleScribeVersion="2.03" authorName="T9A" authorContact="" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
+<gameSystem id="aa64-1e8e-66fc-9abf" name="T9A: Essence of War" revision="4" battleScribeVersion="2.03" authorName="T9A" authorContact="" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
   <costTypes>
     <costType id="24fd-8af8-0c78-001c" name="pts" defaultCostLimit="-1.0" hidden="false"/>
   </costTypes>
   <categoryEntries>
-    <categoryEntry id="28d6-6797-e8d3-a20e" name="Core" hidden="false"/>
-    <categoryEntry id="534c-7f5a-3ca2-7284" name="Support" hidden="false"/>
-    <categoryEntry id="efd0-fe5d-0029-7c1c" name="Characters" hidden="false"/>
-    <categoryEntry id="735a-e403-b0da-dcfc" name="Special" hidden="false"/>
+    <categoryEntry id="b082-0004-b78d-1a55" name="Core" hidden="false"/>
+    <categoryEntry id="b357-5ba3-a105-360d" name="Support" hidden="false"/>
+    <categoryEntry id="dec1-2f63-4fdc-2f79" name="Characters" hidden="false"/>
+    <categoryEntry id="64a3-1b95-970f-7559" name="Special" hidden="false"/>
   </categoryEntries>
   <forceEntries>
-    <forceEntry id="7236-9def-0393-2c42" name="~¨" hidden="false"/>
+    <forceEntry id="2ff8-e51a-314a-372e" name="EoW: Åsklanders" hidden="false">
+      <categoryLinks>
+        <categoryLink id="e9ed-47e9-78fc-71ba" name="Characters" hidden="false" targetId="dec1-2f63-4fdc-2f79" primary="false"/>
+        <categoryLink id="c36f-4f54-1e0c-3b8b" name="Core" hidden="false" targetId="b082-0004-b78d-1a55" primary="false">
+          <constraints>
+            <constraint field="limit::24fd-8af8-0c78-001c" scope="roster" value="25.0" percentValue="true" shared="true" includeChildSelections="false" includeChildForces="false" id="234b-dc41-4615-dc9d" type="min"/>
+          </constraints>
+        </categoryLink>
+        <categoryLink id="fcf6-f5af-99f9-177c" name="Special" hidden="false" targetId="64a3-1b95-970f-7559" primary="false"/>
+        <categoryLink id="d015-6e4f-7a4d-819f" name="Support" hidden="false" targetId="b357-5ba3-a105-360d" primary="false"/>
+      </categoryLinks>
+    </forceEntry>
   </forceEntries>
   <sharedSelectionEntries>
     <selectionEntry id="fd22-9438-9ade-492b" name="Army General" hidden="false" collective="false" import="true" type="upgrade">
