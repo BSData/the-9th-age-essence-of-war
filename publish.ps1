@@ -9,7 +9,7 @@ $gameSystemPath = Get-Item "$currentDir\T9A-EoW.gst"
 
 #open index
 $indexXml = "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<dataIndex battleScribeVersion='2.03' name='T9A-slim' indexUrl='https://github.com/rzmoz/T9A/raw/master/publish/index.bsi' xmlns='http://www.battlescribe.net/schema/dataIndexSchema'>
+<dataIndex battleScribeVersion='2.03' name='T9A-slim' indexUrl='https://github.com/BSData/the-9th-age-essence-of-war/raw/master/cat/index.bsi' xmlns='http://www.battlescribe.net/schema/dataIndexSchema'>
   <repositoryUrls />
   <dataIndexEntries>`r`n"
 
