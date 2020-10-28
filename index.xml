@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<dataIndex battleScribeVersion='2.03' name='T9A-slim' indexUrl='https://github.com/rzmoz/T9A/raw/master/publish/index.bsi' xmlns='http://www.battlescribe.net/schema/dataIndexSchema'>
+  <repositoryUrls />
+  <dataIndexEntries>
+    <dataIndexEntry filePath='Asklanders.catz' dataType='catalogue' dataId='8029-c618-92aa-80d8' dataName='Åsklanders' dataBattleScribeVersion='2.03' dataRevision='1'/>
+    <dataIndexEntry filePath='T9A-EoW.gstz' dataType='gamesystem' dataId='aa64-1e8e-66fc-9abf' dataName='T9A - Essence of War' dataBattleScribeVersion='2.03' dataRevision='1'/>
+  </dataIndexEntries>
+</dataIndex>
