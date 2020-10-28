@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="8029-c618-92aa-80d8" name="Åsklanders" revision="1" battleScribeVersion="2.03" authorName="T9A" library="false" gameSystemId="aa64-1e8e-66fc-9abf" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="8029-c618-92aa-80d8" name="Åsklanders" revision="2" battleScribeVersion="2.03" authorName="T9A" library="false" gameSystemId="aa64-1e8e-66fc-9abf" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <selectionEntries>
     <selectionEntry id="48a7-1242-17dd-e3ca" name="Åsklanders Chief" hidden="false" collective="false" import="true" type="model">
       <constraints>
@@ -59,6 +59,9 @@
   </selectionEntries>
   <entryLinks>
     <entryLink id="7a70-86d0-5511-4684" name="Åsklanders" hidden="false" collective="false" import="true" targetId="ad4a-3b01-b5b8-c46e" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="75b3-4753-2a1f-0086" name="New CategoryLink" hidden="false" targetId="28d6-6797-e8d3-a20e" primary="true"/>
+      </categoryLinks>
       <selectionEntryGroups>
         <selectionEntryGroup id="0807-71ba-3806-4e52" name="Formation" hidden="false" collective="false" import="true">
           <constraints>
@@ -86,6 +89,9 @@
       </selectionEntryGroups>
     </entryLink>
     <entryLink id="6d55-c601-35b0-0038" name="Warhounds" hidden="false" collective="false" import="true" targetId="ca9b-083e-86b0-7abf" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b7d5-b990-1182-ebe0" name="New CategoryLink" hidden="false" targetId="28d6-6797-e8d3-a20e" primary="true"/>
+      </categoryLinks>
       <selectionEntryGroups>
         <selectionEntryGroup id="0455-1153-9907-8794" name="Formation" hidden="false" collective="false" import="true">
           <constraints>
@@ -113,6 +119,9 @@
       </selectionEntryGroups>
     </entryLink>
     <entryLink id="fff2-6795-1845-e9be" name="Trolls" hidden="false" collective="false" import="true" targetId="bba4-eaf0-4811-5ec1" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="2848-359b-9833-d453" name="New CategoryLink" hidden="false" targetId="735a-e403-b0da-dcfc" primary="true"/>
+      </categoryLinks>
       <selectionEntryGroups>
         <selectionEntryGroup id="ddc2-1a86-4295-7317" name="Formation" hidden="false" collective="false" import="true">
           <constraints>
@@ -140,6 +149,9 @@
       </selectionEntryGroups>
     </entryLink>
     <entryLink id="2c57-647e-e85a-575d" name="Huskarls" hidden="false" collective="false" import="true" targetId="4e47-c6c9-086b-eab9" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="cbc5-7c3c-3f48-a49a" name="New CategoryLink" hidden="false" targetId="735a-e403-b0da-dcfc" primary="true"/>
+      </categoryLinks>
       <selectionEntryGroups>
         <selectionEntryGroup id="13d8-30b5-bdf3-5998" name="Formation" hidden="false" collective="false" import="true">
           <constraints>
@@ -167,6 +179,9 @@
       </selectionEntryGroups>
     </entryLink>
     <entryLink id="5b49-5ff3-4915-db77" name="Wargs" hidden="false" collective="false" import="true" targetId="29cc-0e47-1ad3-a210" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="f444-5719-fb5e-bec3" name="New CategoryLink" hidden="false" targetId="735a-e403-b0da-dcfc" primary="true"/>
+      </categoryLinks>
       <selectionEntryGroups>
         <selectionEntryGroup id="366a-b470-97ba-ee1f" name="Formation" hidden="false" collective="false" import="true">
           <constraints>
@@ -193,7 +208,11 @@
         </selectionEntryGroup>
       </selectionEntryGroups>
     </entryLink>
-    <entryLink id="2576-f2a1-1a94-8adf" name="Kraken" hidden="false" collective="false" import="true" targetId="e99b-36de-e36d-7d60" type="selectionEntry"/>
+    <entryLink id="2576-f2a1-1a94-8adf" name="Kraken" hidden="false" collective="false" import="true" targetId="e99b-36de-e36d-7d60" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="c6e2-3044-e160-4947" name="New CategoryLink" hidden="false" targetId="534c-7f5a-3ca2-7284" primary="true"/>
+      </categoryLinks>
+    </entryLink>
   </entryLinks>
   <sharedSelectionEntries>
     <selectionEntry id="ad4a-3b01-b5b8-c46e" name="Åsklanders" hidden="false" collective="false" import="true" type="upgrade">
