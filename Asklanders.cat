@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="8029-c618-92aa-80d8" name="Åsklanders" revision="1" battleScribeVersion="2.03" authorName="T9A" library="false" gameSystemId="aa64-1e8e-66fc-9abf" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <selectionEntries>
+    <selectionEntry id="48a7-1242-17dd-e3ca" name="Åsklanders Chief" hidden="false" collective="false" import="true" type="model">
+      <constraints>
+        <constraint field="selections" scope="roster" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0186-f7dc-a8b5-c19e" type="max"/>
+      </constraints>
+      <categoryLinks>
+        <categoryLink id="c62a-ef4f-f659-0e31" name="New CategoryLink" hidden="false" targetId="efd0-fe5d-0029-7c1c" primary="true"/>
+      </categoryLinks>
+      <selectionEntryGroups>
+        <selectionEntryGroup id="1e1a-22b8-c728-4694" name="Mount" hidden="false" collective="false" import="true">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="33fb-1028-1b76-a41c" type="max"/>
+          </constraints>
+          <entryLinks>
+            <entryLink id="17b4-d403-82bc-9f91" name="War Dais" hidden="false" collective="false" import="true" targetId="141b-71df-f0b4-71fa" type="selectionEntry">
+              <costs>
+                <cost name="pts" typeId="24fd-8af8-0c78-001c" value="50.0"/>
+              </costs>
+            </entryLink>
+            <entryLink id="825f-afe6-e5ec-bd0d" name="Monster" hidden="false" collective="false" import="true" targetId="3231-f59d-e787-2bac" type="selectionEntry">
+              <costs>
+                <cost name="pts" typeId="24fd-8af8-0c78-001c" value="175.0"/>
+              </costs>
+            </entryLink>
+          </entryLinks>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+      <entryLinks>
+        <entryLink id="ec3e-6e6f-3548-a578" name="Army General" hidden="false" collective="false" import="true" targetId="fd22-9438-9ade-492b" type="selectionEntry"/>
+      </entryLinks>
+      <costs>
+        <cost name="pts" typeId="24fd-8af8-0c78-001c" value="125.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5057-b6c7-b813-2dd4" name="Seidhkennar" hidden="false" collective="false" import="true" type="upgrade">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8453-4fbe-3dfc-6505" type="max"/>
+      </constraints>
+      <categoryLinks>
+        <categoryLink id="a781-7832-7377-0617" name="New CategoryLink" hidden="false" targetId="efd0-fe5d-0029-7c1c" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="935c-b774-365a-9767" name="Chariot" hidden="false" collective="false" import="true" targetId="9e83-6453-0be5-0c69" type="selectionEntry">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="136c-798f-d62c-6093" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="pts" typeId="24fd-8af8-0c78-001c" value="50.0"/>
+          </costs>
+        </entryLink>
+        <entryLink id="8ba9-e6cc-6063-1c5c" name="Army General" hidden="false" collective="false" import="true" targetId="fd22-9438-9ade-492b" type="selectionEntry"/>
+      </entryLinks>
+      <costs>
+        <cost name="pts" typeId="24fd-8af8-0c78-001c" value="200.0"/>
+      </costs>
+    </selectionEntry>
+  </selectionEntries>
+  <entryLinks>
+    <entryLink id="7a70-86d0-5511-4684" name="Åsklanders" hidden="false" collective="false" import="true" targetId="ad4a-3b01-b5b8-c46e" type="selectionEntry">
+      <selectionEntryGroups>
+        <selectionEntryGroup id="0807-71ba-3806-4e52" name="Formation" hidden="false" collective="false" import="true">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="73fa-1761-7349-a198" type="max"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a66f-094e-0013-eb6d" type="min"/>
+          </constraints>
+          <selectionEntries>
+            <selectionEntry id="9061-74b0-44b6-b6d8" name="5x3" hidden="false" collective="false" import="true" type="upgrade">
+              <costs>
+                <cost name="pts" typeId="24fd-8af8-0c78-001c" value="150.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="51d1-6455-bdd9-fcab" name="5x4" hidden="false" collective="false" import="true" type="upgrade">
+              <costs>
+                <cost name="pts" typeId="24fd-8af8-0c78-001c" value="200.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="88ae-0ec8-4889-5221" name="7x3" hidden="false" collective="false" import="true" type="upgrade">
+              <costs>
+                <cost name="pts" typeId="24fd-8af8-0c78-001c" value="200.0"/>
+              </costs>
+            </selectionEntry>
+          </selectionEntries>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+    </entryLink>
+    <entryLink id="6d55-c601-35b0-0038" name="Warhounds" hidden="false" collective="false" import="true" targetId="ca9b-083e-86b0-7abf" type="selectionEntry">
+      <selectionEntryGroups>
+        <selectionEntryGroup id="0455-1153-9907-8794" name="Formation" hidden="false" collective="false" import="true">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ec29-99f6-7e9f-ca32" type="max"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="372e-d176-a10d-1836" type="min"/>
+          </constraints>
+          <selectionEntries>
+            <selectionEntry id="9467-f473-ada3-3d3d" name="5x1" hidden="false" collective="false" import="true" type="upgrade">
+              <costs>
+                <cost name="pts" typeId="24fd-8af8-0c78-001c" value="75.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="3c37-4dcc-54db-004a" name="3x2" hidden="false" collective="false" import="true" type="upgrade">
+              <costs>
+                <cost name="pts" typeId="24fd-8af8-0c78-001c" value="100.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="235e-8e85-62dd-9138" name="4x2" hidden="false" collective="false" import="true" type="upgrade">
+              <costs>
+                <cost name="pts" typeId="24fd-8af8-0c78-001c" value="125.0"/>
+              </costs>
+            </selectionEntry>
+          </selectionEntries>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+    </entryLink>
+    <entryLink id="fff2-6795-1845-e9be" name="Trolls" hidden="false" collective="false" import="true" targetId="bba4-eaf0-4811-5ec1" type="selectionEntry">
+      <selectionEntryGroups>
+        <selectionEntryGroup id="ddc2-1a86-4295-7317" name="Formation" hidden="false" collective="false" import="true">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3ee0-ebb5-0426-7e25" type="max"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2482-956c-74b3-daeb" type="min"/>
+          </constraints>
+          <selectionEntries>
+            <selectionEntry id="cccd-bf7a-157b-b2be" name="3x2" hidden="false" collective="false" import="true" type="upgrade">
+              <costs>
+                <cost name="pts" typeId="24fd-8af8-0c78-001c" value="275.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="1a6d-8862-4316-e566" name="2x1" hidden="false" collective="false" import="true" type="upgrade">
+              <costs>
+                <cost name="pts" typeId="24fd-8af8-0c78-001c" value="100.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="ef9f-8941-290c-c67b" name="2x2" hidden="false" collective="false" import="true" type="upgrade">
+              <costs>
+                <cost name="pts" typeId="24fd-8af8-0c78-001c" value="200.0"/>
+              </costs>
+            </selectionEntry>
+          </selectionEntries>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+    </entryLink>
+    <entryLink id="2c57-647e-e85a-575d" name="Huskarls" hidden="false" collective="false" import="true" targetId="4e47-c6c9-086b-eab9" type="selectionEntry">
+      <selectionEntryGroups>
+        <selectionEntryGroup id="13d8-30b5-bdf3-5998" name="Formation" hidden="false" collective="false" import="true">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2255-27f1-f87a-f649" type="max"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="78da-7f61-5f8c-e2b2" type="min"/>
+          </constraints>
+          <selectionEntries>
+            <selectionEntry id="f961-819a-b2b8-ef5d" name="5x3" hidden="false" collective="false" import="true" type="upgrade">
+              <costs>
+                <cost name="pts" typeId="24fd-8af8-0c78-001c" value="250.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="8867-4d60-2d9d-7ff2" name="5x2" hidden="false" collective="false" import="true" type="upgrade">
+              <costs>
+                <cost name="pts" typeId="24fd-8af8-0c78-001c" value="150.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="1196-9120-90fb-1c73" name="7x3" hidden="false" collective="false" import="true" type="upgrade">
+              <costs>
+                <cost name="pts" typeId="24fd-8af8-0c78-001c" value="350.0"/>
+              </costs>
+            </selectionEntry>
+          </selectionEntries>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+    </entryLink>
+    <entryLink id="5b49-5ff3-4915-db77" name="Wargs" hidden="false" collective="false" import="true" targetId="29cc-0e47-1ad3-a210" type="selectionEntry">
+      <selectionEntryGroups>
+        <selectionEntryGroup id="366a-b470-97ba-ee1f" name="Formation" hidden="false" collective="false" import="true">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8e3b-4817-8f0d-dc4d" type="max"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7bb9-3fd5-80b4-a864" type="min"/>
+          </constraints>
+          <selectionEntries>
+            <selectionEntry id="1362-7f5f-d704-e7ae" name="2x2" hidden="false" collective="false" import="true" type="upgrade">
+              <costs>
+                <cost name="pts" typeId="24fd-8af8-0c78-001c" value="250.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="c779-b224-1a0f-0dca" name="2x1" hidden="false" collective="false" import="true" type="upgrade">
+              <costs>
+                <cost name="pts" typeId="24fd-8af8-0c78-001c" value="150.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="1e01-b9b5-dc6a-8854" name="3x1" hidden="false" collective="false" import="true" type="upgrade">
+              <costs>
+                <cost name="pts" typeId="24fd-8af8-0c78-001c" value="200.0"/>
+              </costs>
+            </selectionEntry>
+          </selectionEntries>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+    </entryLink>
+    <entryLink id="2576-f2a1-1a94-8adf" name="Kraken" hidden="false" collective="false" import="true" targetId="e99b-36de-e36d-7d60" type="selectionEntry"/>
+  </entryLinks>
+  <sharedSelectionEntries>
+    <selectionEntry id="ad4a-3b01-b5b8-c46e" name="Åsklanders" hidden="false" collective="false" import="true" type="upgrade">
+      <constraints>
+        <constraint field="selections" scope="roster" value="4.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4536-b883-306b-0dea" type="max"/>
+      </constraints>
+      <categoryLinks>
+        <categoryLink id="17d3-83fb-428f-efb3" name="New CategoryLink" hidden="false" targetId="28d6-6797-e8d3-a20e" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="24fd-8af8-0c78-001c" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ca9b-083e-86b0-7abf" name="Warhounds" hidden="false" collective="false" import="true" type="upgrade">
+      <constraints>
+        <constraint field="selections" scope="roster" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3d3c-a781-8412-73d3" type="max"/>
+      </constraints>
+      <categoryLinks>
+        <categoryLink id="b8fe-b40a-708b-ff4b" name="New CategoryLink" hidden="false" targetId="28d6-6797-e8d3-a20e" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="24fd-8af8-0c78-001c" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="bba4-eaf0-4811-5ec1" name="Trolls" hidden="false" collective="false" import="true" type="upgrade">
+      <constraints>
+        <constraint field="selections" scope="roster" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ee53-1f94-94ea-b5e8" type="max"/>
+      </constraints>
+      <categoryLinks>
+        <categoryLink id="d82d-5933-24c1-6d57" name="New CategoryLink" hidden="false" targetId="735a-e403-b0da-dcfc" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="24fd-8af8-0c78-001c" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4e47-c6c9-086b-eab9" name="Huskarls" hidden="false" collective="false" import="true" type="upgrade">
+      <constraints>
+        <constraint field="selections" scope="roster" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="693b-4ca7-90b2-d1a8" type="max"/>
+      </constraints>
+      <categoryLinks>
+        <categoryLink id="7955-aabc-3be4-a2e1" name="New CategoryLink" hidden="false" targetId="735a-e403-b0da-dcfc" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="24fd-8af8-0c78-001c" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="29cc-0e47-1ad3-a210" name="Wargs" hidden="false" collective="false" import="true" type="upgrade">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="eb3f-75b0-3a28-a4e1" type="max"/>
+      </constraints>
+      <categoryLinks>
+        <categoryLink id="92e9-ba97-629a-98de" name="New CategoryLink" hidden="false" targetId="735a-e403-b0da-dcfc" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="24fd-8af8-0c78-001c" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="e99b-36de-e36d-7d60" name="Kraken" hidden="false" collective="false" import="true" type="upgrade">
+      <constraints>
+        <constraint field="selections" scope="roster" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7231-f8aa-d7d7-c29e" type="max"/>
+      </constraints>
+      <categoryLinks>
+        <categoryLink id="60b1-3414-a043-abc1" name="New CategoryLink" hidden="false" targetId="534c-7f5a-3ca2-7284" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="24fd-8af8-0c78-001c" value="0.0"/>
+      </costs>
+    </selectionEntry>
+  </sharedSelectionEntries>
+</catalogue>
