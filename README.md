@@ -7,11 +7,6 @@ The 9th Age: Essence of War
 [![GitHub contributors](https://img.shields.io/github/contributors/BSData/the-9th-age-essence-of-war.svg?style=flat-square)](https://github.com/BSData/the-9th-age-essence-of-war/graphs/contributors)
 [![GitHub commit activity the past year](https://img.shields.io/github/commit-activity/y/BSData/the-9th-age-essence-of-war.svg?style=flat-square)](https://github.com/BSData/the-9th-age-essence-of-war/pulse/monthly)
 
-#### Contents ####
-
-* [Overview][]
-* [Links][]
-
 # Overview #
 [Overview]: #overview
 This is the supported repo for The 9th Age Essence of War Battlescribe files. Please see [The 9th Age github repo](https://github.com/BSData/The-9th-Age) for The 9th Age: Fantasy Battles battlescribe files
