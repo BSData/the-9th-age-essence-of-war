@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="e5c2-331c-5824-f3f0" name="Åsk" revision="1" battleScribeVersion="2.03" library="false" gameSystemId="6e9a-702f-2132-8497" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="e5c2-331c-5824-f3f0" name="Åsklanders" revision="1" battleScribeVersion="2.03" library="false" gameSystemId="6e9a-702f-2132-8497" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <selectionEntries>
     <selectionEntry id="eb06-0ef7-358c-083f" name="Åsklander Chief" hidden="false" collective="false" import="true" type="unit">
       <constraints>
