@@ -1,4 +1,4 @@
-The-9th-Age-Essence-of-War
+The 9th Age: Essence of War
 ==================
 
 [![GitHub release](https://img.shields.io/github/release/BSData/the-9th-age-essence-of-war.svg?style=flat-square)](https://github.com/BSData/the-9th-age-essence-of-war/releases/latest)
@@ -7,43 +7,29 @@ The-9th-Age-Essence-of-War
 [![GitHub contributors](https://img.shields.io/github/contributors/BSData/the-9th-age-essence-of-war.svg?style=flat-square)](https://github.com/BSData/the-9th-age-essence-of-war/graphs/contributors)
 [![GitHub commit activity the past year](https://img.shields.io/github/commit-activity/y/BSData/the-9th-age-essence-of-war.svg?style=flat-square)](https://github.com/BSData/the-9th-age-essence-of-war/pulse/monthly)
 
-[![Chat on Discord](https://img.shields.io/discord/558412685981777922.svg?logo=discord&style=popout-square)](https://discord.gg/KqPVhds)
-
 #### Contents ####
 
 * [Overview][]
 * [Links][]
 
-## Overview ##
+# Overview #
 [Overview]: #overview
+This is the supported repo for The 9th Age Essence of War Battlescribe files. Please see [The 9th Age github repo](https://github.com/BSData/The-9th-Age) for The 9th Age: Fantasy Battles battlescribe files
 
-__What's this?__
+## How to: Stable Release ##
 
-BSData organisation created this project. It's a GitHub repository of datafiles.
-Maintained by community, in no way endorsed by BattleScribe or any other company/publisher. If you want
-to develop - cool! We need you! Take a look at [Getting Started wiki][]
+1. Open Battlescribe and go to Manage Data
+2. Click the plus sign or add Data Source (Not "Add data index url"!)
+3. Select __INSERT AppSpot name__
+4. And you should be good to go once the data files have been updated.
 
-__Okay, nice project. Is it actually working?__ _I just want those files..._
+## How to: Nightlies ##
 
-Yeah! We have it hosted on AppSpot. Take a look: [BattleScribe Data on Appspot][]
+If you can't wait for latest fixes to be proper released, then you can add the data url directly to get nightly updates. Please mind that this can contain breaking changes without warning! So use at your own risk :-)
 
-__I found a bug!__ / *I have another request*
+1. Open Battlescribe and go to Manage Data
+2. Select "Add data index url"
+3. Enter: https://github.com/BSData/the-9th-age-essence-of-war/raw/master/cat/index.bsi as repositry URL
+4. And you should be good to go once the data files have been updated.
 
-Great, thank you! Now, you have some options:
-
-1. [Report it on AppSpot][] - it's anonymous and no account is needed - on downside, you'll need to manually check on the progress of your issue.
-
-2. [Open issue directly][] (green `New Issue` in upper-right, GitHub account required) - you can track the progress, get notifications, help us by answering possibly follow-up questions and help us better!
-
-## Links ##
-[Links]: #links
-
-* [BattleScribe homepage][]
-* [BattleScribe Data on Appspot][]
-* [Getting Started wiki][]
-
-[Report it on Appspot]: http://battlescribedata.appspot.com/#/repo/the-9th-age-essence-of-war
-[Open Issue directly]: https://github.com/BSData/the-9th-age-essence-of-war/issues
-[BattleScribe homepage]: http://www.battlescribe.net/
-[BattleScribe Data on Appspot]: http://battlescribedata.appspot.com/#/repos
-[Getting Started wiki]: https://github.com/BSData/catalogue-development/wiki/Getting-Started#contributing
+__Please mind that this can cause unexpected issues if you have the official data source from appspot as well!__
