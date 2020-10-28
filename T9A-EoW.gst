@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gameSystem id="6e9a-702f-2132-8497" name="The 9th Age: Essence of War" revision="1" battleScribeVersion="2.03" authorName="T9A" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
+<gameSystem id="6e9a-702f-2132-8497" name="T9A: Essence of War" revision="1" battleScribeVersion="2.03" authorName="T9A" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
   <costTypes>
     <costType id="9ff9-d361-a4c3-1efa" name="pts" defaultCostLimit="-1.0" hidden="false"/>
   </costTypes>
