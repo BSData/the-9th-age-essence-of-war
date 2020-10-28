@@ -24,7 +24,7 @@ If you can't wait for latest fixes to be proper released, then you can add the d
 
 1. Open Battlescribe and go to Manage Data
 2. Select "Add data index url"
-3. Enter: https://github.com/BSData/the-9th-age-essence-of-war/blob/main/cat/index.bsi?raw=true as repositry URL
+3. Enter: https://raw.githubusercontent.com/BSData/the-9th-age-essence-of-war/main/cat/index.bsi as repositry URL
 4. And you should be good to go once the data files have been updated.
 
 __Please mind that this can cause unexpected issues if you have the official data source from appspot as well!__

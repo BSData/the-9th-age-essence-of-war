@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<dataIndex battleScribeVersion='2.03' name='The 9th Age: Essence of War' indexUrl='https://github.com/BSData/the-9th-age-essence-of-war/blob/main/cat/index.bsi?raw=true' xmlns='http://www.battlescribe.net/schema/dataIndexSchema'>
+<dataIndex battleScribeVersion='2.03' name='The 9th Age: Essence of War' indexUrl='https://raw.githubusercontent.com/BSData/the-9th-age-essence-of-war/main/cat/index.bsi' xmlns='http://www.battlescribe.net/schema/dataIndexSchema'>
   <repositoryUrls />
   <dataIndexEntries>
     <dataIndexEntry filePath='Asklanders.catz' dataType='catalogue' dataId='8029-c618-92aa-80d8' dataName='Åsklanders' dataBattleScribeVersion='2.03' dataRevision='1'/>
