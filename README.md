@@ -9,7 +9,7 @@ The 9th Age: Essence of War
 
 # Overview #
 [Overview]: #overview
-This is the supported repo for The 9th Age Essence of War Battlescribe files. Please see [The 9th Age github repo](https://github.com/BSData/The-9th-Age) for The 9th Age: Fantasy Battles battlescribe files
+This is the supported repo for The 9th Age: __Essence of War__ Battlescribe files. Please see [The 9th Age github repo](https://github.com/BSData/The-9th-Age) for The 9th Age: __Fantasy Battles__ battlescribe files
 
 ## How to: Stable Release ##
 
@@ -24,7 +24,8 @@ If you can't wait for latest fixes to be proper released, then you can add the d
 
 1. Open Battlescribe and go to Manage Data
 2. Select "Add data index url"
-3. Enter: https://raw.githubusercontent.com/BSData/the-9th-age-essence-of-war/main/cat/index.bsi as repositry URL
-4. And you should be good to go once the data files have been updated.
+3. Enter: https://raw.githubusercontent.com/BSData/the-9th-age-essence-of-war/main/cat/index.bsi as repositry URL (Copy the url for easier pasting)
+4. Make sure to "Update Data"
+5. And you should be good to go once the data files have been updated.
 
 __Please mind that this can cause unexpected issues if you have the official data source from appspot as well!__
