@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="8029-c618-92aa-80d8" name="Åsklanders" revision="2" battleScribeVersion="2.03" authorName="T9A" library="false" gameSystemId="aa64-1e8e-66fc-9abf" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="8029-c618-92aa-80d8" name="EoW: Åsklanders" revision="3" battleScribeVersion="2.03" authorName="T9A" library="false" gameSystemId="aa64-1e8e-66fc-9abf" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <selectionEntries>
     <selectionEntry id="48a7-1242-17dd-e3ca" name="Åsklanders Chief" hidden="false" collective="false" import="true" type="model">
       <constraints>

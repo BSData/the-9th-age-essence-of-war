@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gameSystem id="aa64-1e8e-66fc-9abf" name="T9A - Essence of War" revision="1" battleScribeVersion="2.03" authorName="T9A" authorContact="" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
+<gameSystem id="aa64-1e8e-66fc-9abf" name="T9A: Essence of War" revision="2" battleScribeVersion="2.03" authorName="T9A" authorContact="" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
   <costTypes>
     <costType id="24fd-8af8-0c78-001c" name="pts" defaultCostLimit="-1.0" hidden="false"/>
   </costTypes>
@@ -10,7 +10,7 @@
     <categoryEntry id="735a-e403-b0da-dcfc" name="Special" hidden="false"/>
   </categoryEntries>
   <forceEntries>
-    <forceEntry id="2ff8-e51a-314a-372e" name="Åsklanders" hidden="false">
+    <forceEntry id="2ff8-e51a-314a-372e" name="EoW: Åsklanders" hidden="false">
       <categoryLinks>
         <categoryLink id="e9ed-47e9-78fc-71ba" name="Characters" hidden="false" targetId="efd0-fe5d-0029-7c1c" primary="false"/>
         <categoryLink id="c36f-4f54-1e0c-3b8b" name="Core" hidden="false" targetId="28d6-6797-e8d3-a20e" primary="false">
