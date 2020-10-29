@@ -2,7 +2,7 @@
 <dataIndex battleScribeVersion='2.03' name='The 9th Age: Essence of War' indexUrl='https://github.com/BSData/the-9th-age-essence-of-war/raw/main/cat/index.bsi' xmlns='http://www.battlescribe.net/schema/dataIndexSchema'>
   <repositoryUrls />
   <dataIndexEntries>
-    <dataIndexEntry filePath='Asklanders.catz' dataType='catalogue' dataId='e5c2-331c-5824-f3f0' dataName='Åsklanders' dataBattleScribeVersion='2.03' dataRevision='1'/>
+    <dataIndexEntry filePath='Asklanders.catz' dataType='catalogue' dataId='e5c2-331c-5824-f3f0' dataName='Åsklanders' dataBattleScribeVersion='2.03' dataRevision='2'/>
     <dataIndexEntry filePath='T9A-EoW.gstz' dataType='gamesystem' dataId='6e9a-702f-2132-8497' dataName='T9A: Essence of War' dataBattleScribeVersion='2.03' dataRevision='1'/>
   </dataIndexEntries>
 </dataIndex>
