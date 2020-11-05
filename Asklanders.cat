@@ -21,7 +21,7 @@
             </entryLink>
             <entryLink id="406e-54e3-15be-376c" name="Monster" hidden="false" collective="false" import="true" targetId="3231-f59d-e787-2bac" type="selectionEntry">
               <costs>
-                <cost name="pts" typeId="9ff9-d361-a4c3-1efa" value="175.0"/>
+                <cost name="pts" typeId="9ff9-d361-a4c3-1efa" value="325.0"/>
               </costs>
             </entryLink>
           </entryLinks>
@@ -144,17 +144,17 @@
           <selectionEntries>
             <selectionEntry id="7b14-4f6c-b0fd-8046" name="2 x 1" hidden="false" collective="false" import="true" type="upgrade">
               <costs>
-                <cost name="pts" typeId="9ff9-d361-a4c3-1efa" value="100.0"/>
+                <cost name="pts" typeId="9ff9-d361-a4c3-1efa" value="125.0"/>
               </costs>
             </selectionEntry>
             <selectionEntry id="c324-001b-26d0-a704" name="2 x 2" hidden="false" collective="false" import="true" type="upgrade">
               <costs>
-                <cost name="pts" typeId="9ff9-d361-a4c3-1efa" value="200.0"/>
+                <cost name="pts" typeId="9ff9-d361-a4c3-1efa" value="275.0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="c9a7-375b-1136-2e97" name="3 x 2" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="c9a7-375b-1136-2e97" name="3 x 1" hidden="false" collective="false" import="true" type="upgrade">
               <costs>
-                <cost name="pts" typeId="9ff9-d361-a4c3-1efa" value="275.0"/>
+                <cost name="pts" typeId="9ff9-d361-a4c3-1efa" value="200.0"/>
               </costs>
             </selectionEntry>
           </selectionEntries>
@@ -216,17 +216,17 @@
           <selectionEntries>
             <selectionEntry id="cd74-1440-df66-07f1" name="2 x 2" hidden="false" collective="false" import="true" type="upgrade">
               <costs>
-                <cost name="pts" typeId="9ff9-d361-a4c3-1efa" value="250.0"/>
+                <cost name="pts" typeId="9ff9-d361-a4c3-1efa" value="300.0"/>
               </costs>
             </selectionEntry>
             <selectionEntry id="2026-b41f-f61c-9aec" name="3 x 1" hidden="false" collective="false" import="true" type="upgrade">
               <costs>
-                <cost name="pts" typeId="9ff9-d361-a4c3-1efa" value="200.0"/>
+                <cost name="pts" typeId="9ff9-d361-a4c3-1efa" value="225.0"/>
               </costs>
             </selectionEntry>
             <selectionEntry id="a025-95a6-b62c-49f0" name="2 x 1" hidden="false" collective="false" import="true" type="upgrade">
               <costs>
-                <cost name="pts" typeId="9ff9-d361-a4c3-1efa" value="150.0"/>
+                <cost name="pts" typeId="9ff9-d361-a4c3-1efa" value="175.0"/>
               </costs>
             </selectionEntry>
           </selectionEntries>
@@ -244,7 +244,7 @@
         <categoryLink id="a8ab-bc06-b377-c69a" name="New CategoryLink" hidden="false" targetId="4ca0-ba8f-4e4f-f87a" primary="true"/>
       </categoryLinks>
       <costs>
-        <cost name="pts" typeId="9ff9-d361-a4c3-1efa" value="300.0"/>
+        <cost name="pts" typeId="9ff9-d361-a4c3-1efa" value="325.0"/>
       </costs>
     </selectionEntry>
   </selectionEntries>
