@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="e5c2-331c-5824-f3f0" name="Åsklanders" revision="2" battleScribeVersion="2.03" library="false" gameSystemId="6e9a-702f-2132-8497" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="e5c2-331c-5824-f3f0" name="Åsklanders" revision="3" battleScribeVersion="2.03" library="false" gameSystemId="6e9a-702f-2132-8497" gameSystemRevision="2" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <selectionEntries>
     <selectionEntry id="eb06-0ef7-358c-083f" name="Åsklander Chief" hidden="false" collective="false" import="true" type="unit">
       <constraints>
@@ -8,27 +8,26 @@
       <categoryLinks>
         <categoryLink id="6884-0473-de01-5f9b" name="New CategoryLink" hidden="false" targetId="7188-7226-8717-07bf" primary="true"/>
       </categoryLinks>
-      <selectionEntryGroups>
-        <selectionEntryGroup id="439f-5ce5-f053-ac69" name="Mount" hidden="false" collective="false" import="true">
+      <entryLinks>
+        <entryLink id="fd78-6dd9-3141-34a2" name="Army General" hidden="false" collective="false" import="true" targetId="fd22-9438-9ade-492b" type="selectionEntry"/>
+        <entryLink id="b05a-ebd8-b48c-d299" name="Special Items" hidden="false" collective="false" import="true" targetId="f3b1-0a19-5671-f0b2" type="selectionEntryGroup"/>
+        <entryLink id="3448-501a-4dc8-129c" name="Mount" hidden="false" collective="false" import="true" targetId="504b-dc74-e35f-f03d" type="selectionEntryGroup">
           <constraints>
-            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0a51-b5b5-a123-a12c" type="max"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="92b1-412c-1c60-d9f4" type="max"/>
           </constraints>
           <entryLinks>
-            <entryLink id="c184-8b5a-8e13-dffb" name="War Dais" hidden="false" collective="false" import="true" targetId="141b-71df-f0b4-71fa" type="selectionEntry">
-              <costs>
-                <cost name="pts" typeId="9ff9-d361-a4c3-1efa" value="50.0"/>
-              </costs>
-            </entryLink>
-            <entryLink id="406e-54e3-15be-376c" name="Monster" hidden="false" collective="false" import="true" targetId="3231-f59d-e787-2bac" type="selectionEntry">
+            <entryLink id="1b48-1d6d-9f0b-8ec1" name="Monster" hidden="false" collective="false" import="true" targetId="35c3-59d4-ef01-8655" type="selectionEntry">
               <costs>
                 <cost name="pts" typeId="9ff9-d361-a4c3-1efa" value="325.0"/>
               </costs>
             </entryLink>
+            <entryLink id="a7ac-ab15-046f-7983" name="War Dais" hidden="false" collective="false" import="true" targetId="a69e-204f-fd4d-1d16" type="selectionEntry">
+              <costs>
+                <cost name="pts" typeId="9ff9-d361-a4c3-1efa" value="175.0"/>
+              </costs>
+            </entryLink>
           </entryLinks>
-        </selectionEntryGroup>
-      </selectionEntryGroups>
-      <entryLinks>
-        <entryLink id="fd78-6dd9-3141-34a2" name="Army General" hidden="false" collective="false" import="true" targetId="fd22-9438-9ade-492b" type="selectionEntry"/>
+        </entryLink>
       </entryLinks>
       <costs>
         <cost name="pts" typeId="9ff9-d361-a4c3-1efa" value="125.0"/>
@@ -43,13 +42,18 @@
       </categoryLinks>
       <entryLinks>
         <entryLink id="b2ff-26e0-8599-4f68" name="Army General" hidden="false" collective="false" import="true" targetId="fd22-9438-9ade-492b" type="selectionEntry"/>
-        <entryLink id="b96d-2596-a09f-99ef" name="Chariot" hidden="false" collective="false" import="true" targetId="9e83-6453-0be5-0c69" type="selectionEntry">
+        <entryLink id="6757-7f1b-a1e3-2e9c" name="Special Items" hidden="false" collective="false" import="true" targetId="f3b1-0a19-5671-f0b2" type="selectionEntryGroup"/>
+        <entryLink id="7683-86dd-cd54-bbf4" name="Mount" hidden="false" collective="false" import="true" targetId="504b-dc74-e35f-f03d" type="selectionEntryGroup">
           <constraints>
-            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ead9-518b-5ef3-d6bc" type="max"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="41b5-a72a-12b7-7f1c" type="max"/>
           </constraints>
-          <costs>
-            <cost name="pts" typeId="9ff9-d361-a4c3-1efa" value="50.0"/>
-          </costs>
+          <entryLinks>
+            <entryLink id="0fa0-b74b-5280-e05b" name="Chariot" hidden="false" collective="false" import="true" targetId="a22b-21f6-5540-2d77" type="selectionEntry">
+              <costs>
+                <cost name="pts" typeId="9ff9-d361-a4c3-1efa" value="50.0"/>
+              </costs>
+            </entryLink>
+          </entryLinks>
         </entryLink>
       </entryLinks>
       <costs>
