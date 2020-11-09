@@ -98,7 +98,7 @@
     </selectionEntry>
     <selectionEntry id="32c1-277e-ed06-d272" name="Spearmen" hidden="false" collective="false" import="true" type="unit">
       <constraints>
-        <constraint field="selections" scope="roster" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f0a3-5e94-b1c7-f0b0" type="max"/>
+        <constraint field="selections" scope="roster" value="4.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f0a3-5e94-b1c7-f0b0" type="max"/>
       </constraints>
       <categoryLinks>
         <categoryLink id="772f-94bf-d9c4-ffd3" name="New CategoryLink" hidden="false" targetId="8ff1-051e-9cdc-a9ae" primary="true"/>
@@ -134,7 +134,7 @@
     </selectionEntry>
     <selectionEntry id="8b99-c611-d2a1-29d9" name="Reiters" hidden="false" collective="false" import="true" type="unit">
       <constraints>
-        <constraint field="selections" scope="roster" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8a23-71a5-4a57-23f3" type="max"/>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8a23-71a5-4a57-23f3" type="max"/>
       </constraints>
       <categoryLinks>
         <categoryLink id="f675-fd9f-df82-df4e" name="New CategoryLink" hidden="false" targetId="c0d5-5efe-7369-6533" primary="true"/>
@@ -165,7 +165,7 @@
     </selectionEntry>
     <selectionEntry id="fa77-38ad-6ebf-d183" name="Imperial Guard" hidden="false" collective="false" import="true" type="unit">
       <constraints>
-        <constraint field="selections" scope="roster" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4965-be11-537a-7eb5" type="max"/>
+        <constraint field="selections" scope="roster" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4965-be11-537a-7eb5" type="max"/>
       </constraints>
       <categoryLinks>
         <categoryLink id="0d96-f630-2669-7540" name="New CategoryLink" hidden="false" targetId="c0d5-5efe-7369-6533" primary="true"/>
@@ -201,7 +201,7 @@
     </selectionEntry>
     <selectionEntry id="7f2b-6282-fb8a-1244" name="Cannon" hidden="false" collective="false" import="true" type="unit">
       <constraints>
-        <constraint field="selections" scope="roster" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="86b0-b3d7-ead6-70eb" type="max"/>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="86b0-b3d7-ead6-70eb" type="max"/>
       </constraints>
       <categoryLinks>
         <categoryLink id="a8ab-bc06-b377-c69a" name="New CategoryLink" hidden="false" targetId="4ca0-ba8f-4e4f-f87a" primary="true"/>
@@ -212,7 +212,7 @@
     </selectionEntry>
     <selectionEntry id="a332-dfdf-e1bb-89f6" name="Electoral Cavalry" hidden="false" collective="false" import="true" type="unit">
       <constraints>
-        <constraint field="selections" scope="roster" value="4.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c37d-392a-cbb6-2f33" type="max"/>
+        <constraint field="selections" scope="roster" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c37d-392a-cbb6-2f33" type="max"/>
       </constraints>
       <categoryLinks>
         <categoryLink id="fa5f-11cb-ecf6-8822" name="New CategoryLink" hidden="false" targetId="8ff1-051e-9cdc-a9ae" primary="true"/>
