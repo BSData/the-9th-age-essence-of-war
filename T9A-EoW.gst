@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gameSystem id="6e9a-702f-2132-8497" name="T9A: Essence of War" revision="2" battleScribeVersion="2.03" authorName="T9A" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
+<gameSystem id="6e9a-702f-2132-8497" name="T9A: Essence of War" revision="3" battleScribeVersion="2.03" authorName="T9A" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
   <costTypes>
     <costType id="9ff9-d361-a4c3-1efa" name="pts" defaultCostLimit="-1.0" hidden="false"/>
   </costTypes>
@@ -20,6 +20,18 @@
         </categoryLink>
         <categoryLink id="2031-375e-4ccc-94b1" name="Special" hidden="false" targetId="c0d5-5efe-7369-6533" primary="false"/>
         <categoryLink id="5002-15cd-677f-844b" name="Support" hidden="false" targetId="4ca0-ba8f-4e4f-f87a" primary="false"/>
+      </categoryLinks>
+    </forceEntry>
+    <forceEntry id="6291-88d6-2c93-b268" name="EoW: Empire of Sonnstahl" hidden="false">
+      <categoryLinks>
+        <categoryLink id="8e94-7880-8838-ea7e" name="Characters" hidden="false" targetId="7188-7226-8717-07bf" primary="false"/>
+        <categoryLink id="3cb1-e750-6b73-951e" name="Core" hidden="false" targetId="8ff1-051e-9cdc-a9ae" primary="false">
+          <constraints>
+            <constraint field="limit::9ff9-d361-a4c3-1efa" scope="roster" value="25.0" percentValue="true" shared="true" includeChildSelections="false" includeChildForces="false" id="7d98-adb3-9b3c-ef17" type="min"/>
+          </constraints>
+        </categoryLink>
+        <categoryLink id="7b9d-c000-8096-fca6" name="Special" hidden="false" targetId="c0d5-5efe-7369-6533" primary="false"/>
+        <categoryLink id="36f6-0491-3e27-fc48" name="Support" hidden="false" targetId="4ca0-ba8f-4e4f-f87a" primary="false"/>
       </categoryLinks>
     </forceEntry>
   </forceEntries>
