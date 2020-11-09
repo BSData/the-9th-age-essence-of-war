@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gameSystem id="6e9a-702f-2132-8497" name="T9A: Essence of War" revision="3" battleScribeVersion="2.03" authorName="T9A" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
+<gameSystem id="6e9a-702f-2132-8497" name="T9A: Essence of War" revision="4" battleScribeVersion="2.03" authorName="T9A" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
   <costTypes>
     <costType id="9ff9-d361-a4c3-1efa" name="pts" defaultCostLimit="-1.0" hidden="false"/>
   </costTypes>
@@ -253,7 +253,7 @@
             <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f501-ef40-a629-48d5" type="max"/>
           </constraints>
           <costs>
-            <cost name="pts" typeId="9ff9-d361-a4c3-1efa" value="0.0"/>
+            <cost name="pts" typeId="9ff9-d361-a4c3-1efa" value="25.0"/>
           </costs>
         </selectionEntry>
       </selectionEntries>
