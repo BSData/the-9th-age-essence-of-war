@@ -15,7 +15,7 @@ This is the supported repo for The 9th Age: __Essence of War__ Battlescribe file
 
 1. Open Battlescribe and go to Manage Data
 2. Click the plus sign or add Data Source (Not "Add data index url"!)
-3. Select __INSERT AppSpot name__
+3. Select "The 9th Age: Essence of War"
 4. And you should be good to go once the data files have been updated.
 
 ## How to: Nightlies ##
