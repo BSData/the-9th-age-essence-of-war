@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<dataIndex battleScribeVersion='2.03' name='The 9th Age: Essence of War' indexUrl='https://github.com/BSData/the-9th-age-essence-of-war/raw/main/cat/index.bsi' xmlns='http://www.battlescribe.net/schema/dataIndexSchema'>
-  <repositoryUrls />
-  <dataIndexEntries>
-    <dataIndexEntry filePath='Asklanders.catz' dataType='catalogue' dataId='e5c2-331c-5824-f3f0' dataName='Åsklanders' dataBattleScribeVersion='2.03' dataRevision='4'/>
-    <dataIndexEntry filePath='EoS.catz' dataType='catalogue' dataId='6ae1-72df-9689-a6f1' dataName='Empire of Sonnstahl' dataBattleScribeVersion='2.03' dataRevision='1'/>
-    <dataIndexEntry filePath='T9A-EoW.gstz' dataType='gamesystem' dataId='6e9a-702f-2132-8497' dataName='T9A: Essence of War' dataBattleScribeVersion='2.03' dataRevision='4'/>
-  </dataIndexEntries>
-</dataIndex>
