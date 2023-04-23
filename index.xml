@@ -1,9 +1,28 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<dataIndex battleScribeVersion='2.03' name='The 9th Age: Essence of War' indexUrl='https://github.com/BSData/the-9th-age-essence-of-war/raw/main/cat/index.bsi' xmlns='http://www.battlescribe.net/schema/dataIndexSchema'>
-  <repositoryUrls />
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="2.03" name="Doom Beasts" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <dataIndexEntries>
-    <dataIndexEntry filePath='Asklanders.catz' dataType='catalogue' dataId='e5c2-331c-5824-f3f0' dataName='Åsklanders' dataBattleScribeVersion='2.03' dataRevision='4'/>
-    <dataIndexEntry filePath='EoS.catz' dataType='catalogue' dataId='6ae1-72df-9689-a6f1' dataName='Empire of Sonnstahl' dataBattleScribeVersion='2.03' dataRevision='1'/>
-    <dataIndexEntry filePath='T9A-EoW.gstz' dataType='gamesystem' dataId='6e9a-702f-2132-8497' dataName='T9A: Essence of War' dataBattleScribeVersion='2.03' dataRevision='4'/>
+    <dataIndexEntry filePath="T9A-EoW.gstz" dataType="gamesystem" dataId="37a3-01ac-0a12-1de9" dataName="T9A: Essence of War" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="VerminSwarm.catz" dataType="catalogue" dataId="af0f-0d21-e883-d0b5" dataName="VS - Vermin Swarm" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="BeastHerds.catz" dataType="catalogue" dataId="2a6b-bc45-eb9d-93db" dataName="BH - Beast Herds" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="OgreKhans.catz" dataType="catalogue" dataId="33b8-bc53-4632-9417" dataName="OK - Ogre Khans" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="UndyingDynasties.catz" dataType="catalogue" dataId="27d4-f955-b673-61db" dataName="UD - Undying Dynasties" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="DwarvenHolds.catz" dataType="catalogue" dataId="d25a-f684-fa50-581a" dataName="DH - Dwarven Holds" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="WarriorsOfTheDarkGods.catz" dataType="catalogue" dataId="c100-ef12-5eb6-a169" dataName="WD - Warriors of the Dark Gods" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="KingdomOfEquitaine.catz" dataType="catalogue" dataId="7396-18b0-e23c-56f0" dataName="KE - Kingdom of Equitaine" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="OrcsAndGoblins.catz" dataType="catalogue" dataId="9631-d95e-5aa0-7030" dataName="OG - Orcs and Goblins" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="SaurianAncients.catz" dataType="catalogue" dataId="3f3c-c5d1-35d8-69ba" dataName="SA - Saurian Ancients" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="EmpireOfSonnstahl.catz" dataType="catalogue" dataId="d9df-3316-701a-48ba" dataName="ES - Empire of Sonnstahl" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="LeagueOfCogs.catz" dataType="catalogue" dataId="7fb4-3718-3ee9-1f92" dataName="ES - League of Cogs" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="HighbornElves.catz" dataType="catalogue" dataId="4182-31f8-1c3b-9169" dataName="HE - Highborn Elves" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Hobgoblins.catz" dataType="catalogue" dataId="fa00-b316-6704-236a" dataName="HG - Hobgoblins" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="DaemonLegions.catz" dataType="catalogue" dataId="1663-6597-50aa-83ad" dataName="DL - Daemon Legions" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Makhar.catz" dataType="catalogue" dataId="fb09-f968-ec1f-e558" dataName="MA - Makhar" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="ChurchOfSunna.catz" dataType="catalogue" dataId="ec38-821b-1168-aa03" dataName="ES - Church of Sunna" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Asklanders.catz" dataType="catalogue" dataId="0732-a6e6-b4cb-6cc6" dataName="AS - Åsklander" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="DreadElves.catz" dataType="catalogue" dataId="6aa5-c115-52de-278d" dataName="DE - Dread Elves" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Cultists.catz" dataType="catalogue" dataId="8d3d-5c16-6fa9-fa76" dataName="CU - Cultists" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="InfernalDwarves.catz" dataType="catalogue" dataId="1bf5-c929-0545-e5a4" dataName="ID - Infernal Dwarves" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="VampireCovenant.catz" dataType="catalogue" dataId="3d66-c592-55b4-68f1" dataName="VC - Vampire Covenant" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="SylvanElves.catz" dataType="catalogue" dataId="2632-aa38-0888-fd4d" dataName="SE - Sylvan Elves" dataBattleScribeVersion="2.03" dataRevision="1"/>
   </dataIndexEntries>
 </dataIndex>
